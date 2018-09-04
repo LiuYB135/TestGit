@@ -3,6 +3,6 @@ package com.lyb.git;
 public class Happy {
 
 	public static void main(String[] args) {
-		System.out.println("I am very Happy!!");
+		System.out.println("left .....");
 	}
 }
